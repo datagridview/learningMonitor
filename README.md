@@ -10,4 +10,4 @@ front-end: [learningMonitor-web](https://github.com/datagridview/learningMonitor
 back-end: [learningMonitor-backend](https://github.com/datagridview/learningMonitor1)
 
 
-The thesis is [here]().
+The thesis is [here](https://github.com/datagridview/learningMonitor/blob/master/%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87.pdf).
