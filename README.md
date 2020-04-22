@@ -1,7 +1,7 @@
 # learningMonitor
 
 A system consists of handler, front-end and back-end.
-Here is the sections below.
+Here are the sections below.
 
 handler: [learningMonitor-handlers](https://github.com/datagridview/learningMonitor-handlers)
 
